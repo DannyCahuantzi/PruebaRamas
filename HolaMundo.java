@@ -17,6 +17,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("Daniela");
         System.out.println("Alexis");
+        System.out.println("Erick");
     }
     
 }
