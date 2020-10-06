@@ -16,7 +16,12 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         System.out.println("Daniela");
+<<<<<<< HEAD
         System.out.println("Abril");
+=======
+        System.out.println("Alexis");
+        System.out.println("Erick");
+>>>>>>> main
     }
     
 }
